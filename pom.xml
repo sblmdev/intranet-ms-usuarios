@@ -9,11 +9,11 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dini</groupId>
-	<artifactId>activos-criticos-nacionales-backend</artifactId>
+	<groupId>com.sblm</groupId>
+	<artifactId>intranet-ms-usuarios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>activos-criticos-nacionales-backend</name>
-	<description>API de descanso para una aplicación de inventario de ACN</description>
+	<name>intranet-ms-usuarios</name>
+	<description>Microservicio de usuarios de la Intranet SBLM</description>
 
 	<properties>
 		<java.version>1.8</java.version>
